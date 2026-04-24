@@ -2,7 +2,7 @@
 
 🎓 **M.S. Computer Science** — Tennessee Technological University (Thesis Track)  
 🔬 **Research:** LLM-based edge frameworks & adversarial attacks on IoBT systems  
-📄 **Published:** [PA-LLM-RAG](https://arxiv.org/) — IEEE AIS 2026 (Oral Presentation, San Antonio)  
+📄 **Published:** [PA-LLM-RAG](https://arxiv.org/html/2604.09493) — IEEE AIS 2026 (Oral Presentation, San Antonio)  
 💼 **Looking for:** Data Analyst / Software Engineer roles  
 
 ---
@@ -17,7 +17,7 @@ Serverless MFA system with 4 auth methods — Password, QR Code, TOTP, and WebAu
 End-to-end analytics pipeline on 800K+ retail transactions with Power BI dashboard.  
 `Python` `FP-Growth` `K-Means` `RFM Segmentation` `Power BI` `scikit-learn`
 
-### 🤖 PA-LLM-RAG — IoBT Mission Orchestration Framework *(IEEE AIS 2026)*
+### 🤖 [PA-LLM-RAG — IoBT Mission Orchestration Framework](https://arxiv.org/html/2604.09493) *(IEEE AIS 2026)*
 Policy-aware edge LLM-RAG framework for Internet of Battlefield Things, evaluated across 4 open-source LLMs with JudgeLLM verification layer.  
 `Python` `LLaMA` `Mistral` `RAG` `RoboDK` `Ollama`
 
